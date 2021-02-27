@@ -1,6 +1,32 @@
-# Getting Started with Create React App
+# Whatsapp Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> > The message service application powered by react on front-end, node-express on back-end & real-time with mongodb & pusher, hosted on firebase.
+
+## About the application
+
+> WhatsApp Messenger, or simply WhatsApp, is an American freeware, cross-platform centralized messaging and voice-over-IP service owned by Facebook, Inc. It allows users to send text messages and voice messages, make voice and video calls, and share images, documents, user locations, and other content.
+
+## Stock
+
+- [chat-background](https://user-images.githubusercontent.com/15075759/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.png)
+- [chatroom-avatars](https://avatars.dicebear.com/4.5/api/human/<0-9a-z>.svg)
+- [user-displayPic](https://i.pinimg.com/originals/5e/a0/76/5ea07679d8287856c1ab14ef393766c2.jpg)
+- [avatar](https://i.pinimg.com/originals/5e/a0/76/5ea07679d8287856c1ab14ef393766c2.jpg)
+
+## Dependencies
+
+- material-ui
+- react-router-dom
+- react-redux
+
+## Components
+
+- Sidebar (header & chatbar component) (35%)
+- SidebarChat (chatbar in sidebar)
+- Chats (text messages component) (65%)
+- Login
+
+  This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
